@@ -23,11 +23,13 @@ You are responsible for using the code or content of this project at your own ri
 |:---:|:---:|:---|:---|
 |01_BLE_LED|ESP32-S3|使用BLE控制LED的亮灭|创建BLE蓝牙服务|
 |02_BLE_Blink|ESP32-S3|使用BLE调整LED闪烁频率|使用字符串传输数字类型|
+|03_BLE_Basic|ESP32-S3|最基础/简单的BLE服务|最基础的BLE广播和UUID的定义|
 
 |Program Name|Chip Used|Introduction|Related knowledge|
 |:---:|:---:|:---|:---|
 |01_BLE_LED|ESP32-S3|Using BLE to control the on/off of LED|Create BLE Bluetooth service|
 |02_BLE_Blink|ESP32-S3|Adjust Blink frequency using BLE|Using Strings to transmit int types data|
+|03_BLE_Basic|ESP32-S3|The most basic/simple BLE service | The most basic BLE broadcast and UUID definition|
 
 ## 问题反馈
 > Submit Bugs
