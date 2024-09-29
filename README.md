@@ -1,12 +1,12 @@
 # Arduino BLE 例程
 > Arduino BLE Routine Program
 
-- [项目介绍](https://github.com/akhtex/ArduinoBLE#项目介绍)
-- > Project Introduction
-- [程序清单](https://github.com/akhtex/ArduinoBLE#程序清单)
-- > Program List
-- [问题反馈](https://github.com/akhtex/ArduinoBLE#问题反馈)
-- > Submit Bugs
+> [项目介绍](https://github.com/akhtex/ArduinoBLE#项目介绍)
+> Project Introduction
+> [程序清单](https://github.com/akhtex/ArduinoBLE#程序清单)
+> Program List
+> [问题反馈](https://github.com/akhtex/ArduinoBLE#问题反馈)
+> Submit Bugs
 
 ## 项目介绍
 > Project Introduction
@@ -19,17 +19,19 @@ You are responsible for using the code or content of this project at your own ri
 ## 程序清单
 > Program List
 
-|例程名称|使用芯片|介绍|
-|:---:|:---:|:---|
-|01_BLE_LED|ESP32-S3|使用BLE控制LED的亮灭|
+|例程名称|使用芯片|介绍|相关知识|
+|:---:|:---:|:---|:---|
+|01_BLE_LED|ESP32-S3|使用BLE控制LED的亮灭|创建BLE蓝牙服务|
+|02_BLE_Blink|ESP32-S3|使用BLE调整LED闪烁频率|使用字符串传输数字类型|
 
-|Program Name|Chip Used|Introduction|
-|:---:|:---:|:---|
-|01_BLE_LED|ESP32-S3|Using BLE to control the on/off of LED|
+|Program Name|Chip Used|Introduction|Related knowledge|
+|:---:|:---:|:---|:---|
+|01_BLE_LED|ESP32-S3|Using BLE to control the on/off of LED|Create BLE Bluetooth service|
+|02_BLE_Blink|ESP32-S3|Adjust Blink frequency using BLE|Using Strings to transmit int types data|
 
 ## 问题反馈
 > Submit Bugs
 
-如果你有任何问题，可以使用邮件[*wfe32m@Outlook.com*](wfe32m@Outlook.com)联系我，或者在Github上提交issue
-> If you have any questions, you could contact me through the email [*wfe32m@Outlook.com*](wfe32m@Outlook.com).
+如果你有任何问题，可以使用邮件[*wfe32m@Outlook.com*](mailto:wfe32m@Outlook.com)联系我，或者在Github上提交issue
+> If you have any questions, you could contact me through the email [*wfe32m@Outlook.com*](mailto:wfe32m@Outlook.com).
 Or you could [file an issue on GitHub](https://github.com/akhtex/ArduinoBLE/issues/new).
